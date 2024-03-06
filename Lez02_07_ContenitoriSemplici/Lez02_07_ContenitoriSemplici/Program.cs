@@ -97,6 +97,27 @@
 
             string nomi = "Giovanni, Valeria, Marika, Mario, Valeria";
 
+            //SOLUZIONE prof
+
+            string[] arrayNomi = nomi.Split(", ");
+
+            string nomeDaCercare = "marika";
+
+            foreach (string nome in arrayNomi)
+            {
+                if(nome.ToUpper().Equals(nomeDaCercare.ToUpper()))
+                    Console.WriteLine($"Ho trovato: { nome}");
+            }
+
+
+
+
+            //string[] contenitore = nomi.Split(", ");
+
+            //for(int i = 0;  i < contenitore.Length; i++)
+            //{
+            //    Console.WriteLine(contenitore[i]);
+            //}
 
             //SOLUZIONE 1
             //string newNomi = nomi.Replace(",", "");
@@ -116,7 +137,7 @@
             //    Console.Write(arraystringhe[i]);
             //}
 
-            //CAGATE VARIE
+            //PROVE
 
             //Console.WriteLine(arraystringhe.Length);
             //char[] arrayCar = nomi.ToCharArray();
@@ -142,6 +163,8 @@
             //    Console.Write(pippo);
             //}
             //char[] delimiterChars = { ',' };
+
+            //Soluzione alternativa
 
         }
     }

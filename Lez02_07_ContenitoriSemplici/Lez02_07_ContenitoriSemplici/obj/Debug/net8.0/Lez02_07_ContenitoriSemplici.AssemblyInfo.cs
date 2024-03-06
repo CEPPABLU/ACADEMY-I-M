@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lez02_07_ContenitoriSemplici")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd38bb618cb56308d9cf361934b403d452fad052")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lez02_07_ContenitoriSemplici")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lez02_07_ContenitoriSemplici")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

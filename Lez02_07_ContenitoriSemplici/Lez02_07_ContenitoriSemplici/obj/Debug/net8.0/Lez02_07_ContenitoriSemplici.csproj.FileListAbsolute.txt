@@ -12,3 +12,4 @@ C:\Users\utente\Desktop\ACADEMY\Lez02_07_ContenitoriSemplici\Lez02_07_Contenitor
 C:\Users\utente\Desktop\ACADEMY\Lez02_07_ContenitoriSemplici\Lez02_07_ContenitoriSemplici\obj\Debug\net8.0\Lez02_07_ContenitoriSemplici.pdb
 C:\Users\utente\Desktop\ACADEMY\Lez02_07_ContenitoriSemplici\Lez02_07_ContenitoriSemplici\obj\Debug\net8.0\Lez02_07_ContenitoriSemplici.genruntimeconfig.cache
 C:\Users\utente\Desktop\ACADEMY\Lez02_07_ContenitoriSemplici\Lez02_07_ContenitoriSemplici\obj\Debug\net8.0\ref\Lez02_07_ContenitoriSemplici.dll
+C:\Users\utente\Desktop\ACADEMY\Lez02_07_ContenitoriSemplici\Lez02_07_ContenitoriSemplici\obj\Debug\net8.0\Lez02_07_ContenitoriSemplici.sourcelink.json
