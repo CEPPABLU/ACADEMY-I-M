@@ -1,0 +1,14 @@
+C:\Users\utente\Desktop\ACADEMY\Lez02_07_ContenitoriSemplici\Lez02_07_ContenitoriSemplici\bin\Debug\net8.0\Lez02_07_ContenitoriSemplici.exe
+C:\Users\utente\Desktop\ACADEMY\Lez02_07_ContenitoriSemplici\Lez02_07_ContenitoriSemplici\bin\Debug\net8.0\Lez02_07_ContenitoriSemplici.deps.json
+C:\Users\utente\Desktop\ACADEMY\Lez02_07_ContenitoriSemplici\Lez02_07_ContenitoriSemplici\bin\Debug\net8.0\Lez02_07_ContenitoriSemplici.runtimeconfig.json
+C:\Users\utente\Desktop\ACADEMY\Lez02_07_ContenitoriSemplici\Lez02_07_ContenitoriSemplici\bin\Debug\net8.0\Lez02_07_ContenitoriSemplici.dll
+C:\Users\utente\Desktop\ACADEMY\Lez02_07_ContenitoriSemplici\Lez02_07_ContenitoriSemplici\bin\Debug\net8.0\Lez02_07_ContenitoriSemplici.pdb
+C:\Users\utente\Desktop\ACADEMY\Lez02_07_ContenitoriSemplici\Lez02_07_ContenitoriSemplici\obj\Debug\net8.0\Lez02_07_ContenitoriSemplici.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utente\Desktop\ACADEMY\Lez02_07_ContenitoriSemplici\Lez02_07_ContenitoriSemplici\obj\Debug\net8.0\Lez02_07_ContenitoriSemplici.AssemblyInfoInputs.cache
+C:\Users\utente\Desktop\ACADEMY\Lez02_07_ContenitoriSemplici\Lez02_07_ContenitoriSemplici\obj\Debug\net8.0\Lez02_07_ContenitoriSemplici.AssemblyInfo.cs
+C:\Users\utente\Desktop\ACADEMY\Lez02_07_ContenitoriSemplici\Lez02_07_ContenitoriSemplici\obj\Debug\net8.0\Lez02_07_ContenitoriSemplici.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\ACADEMY\Lez02_07_ContenitoriSemplici\Lez02_07_ContenitoriSemplici\obj\Debug\net8.0\Lez02_07_ContenitoriSemplici.dll
+C:\Users\utente\Desktop\ACADEMY\Lez02_07_ContenitoriSemplici\Lez02_07_ContenitoriSemplici\obj\Debug\net8.0\refint\Lez02_07_ContenitoriSemplici.dll
+C:\Users\utente\Desktop\ACADEMY\Lez02_07_ContenitoriSemplici\Lez02_07_ContenitoriSemplici\obj\Debug\net8.0\Lez02_07_ContenitoriSemplici.pdb
+C:\Users\utente\Desktop\ACADEMY\Lez02_07_ContenitoriSemplici\Lez02_07_ContenitoriSemplici\obj\Debug\net8.0\Lez02_07_ContenitoriSemplici.genruntimeconfig.cache
+C:\Users\utente\Desktop\ACADEMY\Lez02_07_ContenitoriSemplici\Lez02_07_ContenitoriSemplici\obj\Debug\net8.0\ref\Lez02_07_ContenitoriSemplici.dll
