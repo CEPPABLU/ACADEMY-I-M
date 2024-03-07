@@ -1,0 +1,15 @@
+C:\Users\utente\Desktop\ACADEMY\Eser_02\Eser_02\bin\Debug\net8.0\Eser_02.exe
+C:\Users\utente\Desktop\ACADEMY\Eser_02\Eser_02\bin\Debug\net8.0\Eser_02.deps.json
+C:\Users\utente\Desktop\ACADEMY\Eser_02\Eser_02\bin\Debug\net8.0\Eser_02.runtimeconfig.json
+C:\Users\utente\Desktop\ACADEMY\Eser_02\Eser_02\bin\Debug\net8.0\Eser_02.dll
+C:\Users\utente\Desktop\ACADEMY\Eser_02\Eser_02\bin\Debug\net8.0\Eser_02.pdb
+C:\Users\utente\Desktop\ACADEMY\Eser_02\Eser_02\obj\Debug\net8.0\Eser_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utente\Desktop\ACADEMY\Eser_02\Eser_02\obj\Debug\net8.0\Eser_02.AssemblyInfoInputs.cache
+C:\Users\utente\Desktop\ACADEMY\Eser_02\Eser_02\obj\Debug\net8.0\Eser_02.AssemblyInfo.cs
+C:\Users\utente\Desktop\ACADEMY\Eser_02\Eser_02\obj\Debug\net8.0\Eser_02.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\ACADEMY\Eser_02\Eser_02\obj\Debug\net8.0\Eser_02.sourcelink.json
+C:\Users\utente\Desktop\ACADEMY\Eser_02\Eser_02\obj\Debug\net8.0\Eser_02.dll
+C:\Users\utente\Desktop\ACADEMY\Eser_02\Eser_02\obj\Debug\net8.0\refint\Eser_02.dll
+C:\Users\utente\Desktop\ACADEMY\Eser_02\Eser_02\obj\Debug\net8.0\Eser_02.pdb
+C:\Users\utente\Desktop\ACADEMY\Eser_02\Eser_02\obj\Debug\net8.0\Eser_02.genruntimeconfig.cache
+C:\Users\utente\Desktop\ACADEMY\Eser_02\Eser_02\obj\Debug\net8.0\ref\Eser_02.dll

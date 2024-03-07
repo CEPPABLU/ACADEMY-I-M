@@ -8,9 +8,17 @@ namespace Lez03_09_Astrazione.Classes
 {
     internal class Cane : Animale
     {
+        public Cane() { }
+        public Cane(string? nome)
+        {
+           Nome = nome;
+        }
+
+        public string V { get; }
+
         public override void versoEmesso()
         {
-            Console.WriteLine("BAU");
+            Console.WriteLine($"{Nome} fa BAU");
         }
     }
 }

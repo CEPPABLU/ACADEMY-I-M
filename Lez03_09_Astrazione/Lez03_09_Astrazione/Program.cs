@@ -10,7 +10,10 @@ namespace Lez03_09_Astrazione
 
             Gatto   bu = new Gatto();
 
-            Coccodrillo coccodrillo = new Coccodrillo();    
+            Coccodrillo coccodrillo = new Coccodrillo(); 
+            
+            Cane vivi = new Cane("Vivi");
+            vivi.versoEmesso();
         }
     }
 }

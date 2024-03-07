@@ -1,0 +1,15 @@
+C:\Users\utente\Desktop\ACADEMY\Es_01_GestioneVeicolo\Es_01_GestioneVeicolo\bin\Debug\net8.0\Es_01_GestioneVeicolo.exe
+C:\Users\utente\Desktop\ACADEMY\Es_01_GestioneVeicolo\Es_01_GestioneVeicolo\bin\Debug\net8.0\Es_01_GestioneVeicolo.deps.json
+C:\Users\utente\Desktop\ACADEMY\Es_01_GestioneVeicolo\Es_01_GestioneVeicolo\bin\Debug\net8.0\Es_01_GestioneVeicolo.runtimeconfig.json
+C:\Users\utente\Desktop\ACADEMY\Es_01_GestioneVeicolo\Es_01_GestioneVeicolo\bin\Debug\net8.0\Es_01_GestioneVeicolo.dll
+C:\Users\utente\Desktop\ACADEMY\Es_01_GestioneVeicolo\Es_01_GestioneVeicolo\bin\Debug\net8.0\Es_01_GestioneVeicolo.pdb
+C:\Users\utente\Desktop\ACADEMY\Es_01_GestioneVeicolo\Es_01_GestioneVeicolo\obj\Debug\net8.0\Es_01_GestioneVeicolo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utente\Desktop\ACADEMY\Es_01_GestioneVeicolo\Es_01_GestioneVeicolo\obj\Debug\net8.0\Es_01_GestioneVeicolo.AssemblyInfoInputs.cache
+C:\Users\utente\Desktop\ACADEMY\Es_01_GestioneVeicolo\Es_01_GestioneVeicolo\obj\Debug\net8.0\Es_01_GestioneVeicolo.AssemblyInfo.cs
+C:\Users\utente\Desktop\ACADEMY\Es_01_GestioneVeicolo\Es_01_GestioneVeicolo\obj\Debug\net8.0\Es_01_GestioneVeicolo.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\ACADEMY\Es_01_GestioneVeicolo\Es_01_GestioneVeicolo\obj\Debug\net8.0\Es_01_GestioneVeicolo.sourcelink.json
+C:\Users\utente\Desktop\ACADEMY\Es_01_GestioneVeicolo\Es_01_GestioneVeicolo\obj\Debug\net8.0\Es_01_GestioneVeicolo.dll
+C:\Users\utente\Desktop\ACADEMY\Es_01_GestioneVeicolo\Es_01_GestioneVeicolo\obj\Debug\net8.0\refint\Es_01_GestioneVeicolo.dll
+C:\Users\utente\Desktop\ACADEMY\Es_01_GestioneVeicolo\Es_01_GestioneVeicolo\obj\Debug\net8.0\Es_01_GestioneVeicolo.pdb
+C:\Users\utente\Desktop\ACADEMY\Es_01_GestioneVeicolo\Es_01_GestioneVeicolo\obj\Debug\net8.0\Es_01_GestioneVeicolo.genruntimeconfig.cache
+C:\Users\utente\Desktop\ACADEMY\Es_01_GestioneVeicolo\Es_01_GestioneVeicolo\obj\Debug\net8.0\ref\Es_01_GestioneVeicolo.dll

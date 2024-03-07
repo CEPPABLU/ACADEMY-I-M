@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Es_01_GestioneVeicolo/1.0.0": {
+        "runtime": {
+          "Es_01_GestioneVeicolo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Es_01_GestioneVeicolo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

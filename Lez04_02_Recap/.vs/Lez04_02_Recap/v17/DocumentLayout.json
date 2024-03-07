@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\ACADEMY\\Lez04_02_Recap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBDFA71E-1946-46B6-9E3A-D53A8E9209CA}|Lez04_02_Recap\\Lez04_02_Recap.csproj|c:\\users\\utente\\desktop\\academy\\lez04_02_recap\\lez04_02_recap\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBDFA71E-1946-46B6-9E3A-D53A8E9209CA}|Lez04_02_Recap\\Lez04_02_Recap.csproj|solutionrelative:lez04_02_recap\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBDFA71E-1946-46B6-9E3A-D53A8E9209CA}|Lez04_02_Recap\\Lez04_02_Recap.csproj|c:\\users\\utente\\desktop\\academy\\lez04_02_recap\\lez04_02_recap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBDFA71E-1946-46B6-9E3A-D53A8E9209CA}|Lez04_02_Recap\\Lez04_02_Recap.csproj|solutionrelative:lez04_02_recap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 236,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Studente.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ACADEMY\\Lez04_02_Recap\\Lez04_02_Recap\\Studente.cs",
+              "RelativeDocumentMoniker": "Lez04_02_Recap\\Studente.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\ACADEMY\\Lez04_02_Recap\\Lez04_02_Recap\\Studente.cs",
+              "RelativeToolTip": "Lez04_02_Recap\\Studente.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAcwCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T09:02:57.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ACADEMY\\Lez04_02_Recap\\Lez04_02_Recap\\Program.cs",
+              "RelativeDocumentMoniker": "Lez04_02_Recap\\Program.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\ACADEMY\\Lez04_02_Recap\\Lez04_02_Recap\\Program.cs",
+              "RelativeToolTip": "Lez04_02_Recap\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T09:02:35.419Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

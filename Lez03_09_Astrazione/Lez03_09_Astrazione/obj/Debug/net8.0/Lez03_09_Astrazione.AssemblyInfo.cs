@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lez03_09_Astrazione")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd38bb618cb56308d9cf361934b403d452fad052")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85be242635a939bd0da3cdbe562534c7a8878f52")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lez03_09_Astrazione")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lez03_09_Astrazione")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
