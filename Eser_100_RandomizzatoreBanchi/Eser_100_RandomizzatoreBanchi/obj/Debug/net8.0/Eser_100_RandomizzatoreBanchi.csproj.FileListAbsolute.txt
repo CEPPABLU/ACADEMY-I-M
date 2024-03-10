@@ -1,0 +1,15 @@
+C:\Users\utente\Desktop\ACADEMY\Eser_100_RandomizzatoreBanchi\Eser_100_RandomizzatoreBanchi\bin\Debug\net8.0\Eser_100_RandomizzatoreBanchi.exe
+C:\Users\utente\Desktop\ACADEMY\Eser_100_RandomizzatoreBanchi\Eser_100_RandomizzatoreBanchi\bin\Debug\net8.0\Eser_100_RandomizzatoreBanchi.deps.json
+C:\Users\utente\Desktop\ACADEMY\Eser_100_RandomizzatoreBanchi\Eser_100_RandomizzatoreBanchi\bin\Debug\net8.0\Eser_100_RandomizzatoreBanchi.runtimeconfig.json
+C:\Users\utente\Desktop\ACADEMY\Eser_100_RandomizzatoreBanchi\Eser_100_RandomizzatoreBanchi\bin\Debug\net8.0\Eser_100_RandomizzatoreBanchi.dll
+C:\Users\utente\Desktop\ACADEMY\Eser_100_RandomizzatoreBanchi\Eser_100_RandomizzatoreBanchi\bin\Debug\net8.0\Eser_100_RandomizzatoreBanchi.pdb
+C:\Users\utente\Desktop\ACADEMY\Eser_100_RandomizzatoreBanchi\Eser_100_RandomizzatoreBanchi\obj\Debug\net8.0\Eser_100_RandomizzatoreBanchi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utente\Desktop\ACADEMY\Eser_100_RandomizzatoreBanchi\Eser_100_RandomizzatoreBanchi\obj\Debug\net8.0\Eser_100_RandomizzatoreBanchi.AssemblyInfoInputs.cache
+C:\Users\utente\Desktop\ACADEMY\Eser_100_RandomizzatoreBanchi\Eser_100_RandomizzatoreBanchi\obj\Debug\net8.0\Eser_100_RandomizzatoreBanchi.AssemblyInfo.cs
+C:\Users\utente\Desktop\ACADEMY\Eser_100_RandomizzatoreBanchi\Eser_100_RandomizzatoreBanchi\obj\Debug\net8.0\Eser_100_RandomizzatoreBanchi.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\ACADEMY\Eser_100_RandomizzatoreBanchi\Eser_100_RandomizzatoreBanchi\obj\Debug\net8.0\Eser_100_RandomizzatoreBanchi.sourcelink.json
+C:\Users\utente\Desktop\ACADEMY\Eser_100_RandomizzatoreBanchi\Eser_100_RandomizzatoreBanchi\obj\Debug\net8.0\Eser_100_RandomizzatoreBanchi.dll
+C:\Users\utente\Desktop\ACADEMY\Eser_100_RandomizzatoreBanchi\Eser_100_RandomizzatoreBanchi\obj\Debug\net8.0\refint\Eser_100_RandomizzatoreBanchi.dll
+C:\Users\utente\Desktop\ACADEMY\Eser_100_RandomizzatoreBanchi\Eser_100_RandomizzatoreBanchi\obj\Debug\net8.0\Eser_100_RandomizzatoreBanchi.pdb
+C:\Users\utente\Desktop\ACADEMY\Eser_100_RandomizzatoreBanchi\Eser_100_RandomizzatoreBanchi\obj\Debug\net8.0\Eser_100_RandomizzatoreBanchi.genruntimeconfig.cache
+C:\Users\utente\Desktop\ACADEMY\Eser_100_RandomizzatoreBanchi\Eser_100_RandomizzatoreBanchi\obj\Debug\net8.0\ref\Eser_100_RandomizzatoreBanchi.dll

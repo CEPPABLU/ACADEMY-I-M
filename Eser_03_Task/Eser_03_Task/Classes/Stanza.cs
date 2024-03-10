@@ -26,10 +26,10 @@ namespace Eser_03_Task.Classes
         //    }
         //}
 
-        public void creazioneListe(string val1, string val2, string val3)
-        {
-            Oggetto waterr = new Oggetto(val1, val2, val3);
-        }
+        //public void creazioneListe(string val1, string val2, string val3)
+        //{
+        //    Oggetto waterr = new Oggetto(val1, val2, val3);
+        //}
     }
 
 }

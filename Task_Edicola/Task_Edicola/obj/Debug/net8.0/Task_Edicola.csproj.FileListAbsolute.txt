@@ -1,0 +1,15 @@
+C:\Users\utente\Desktop\ACADEMY\Task_Edicola\Task_Edicola\bin\Debug\net8.0\Task_Edicola.exe
+C:\Users\utente\Desktop\ACADEMY\Task_Edicola\Task_Edicola\bin\Debug\net8.0\Task_Edicola.deps.json
+C:\Users\utente\Desktop\ACADEMY\Task_Edicola\Task_Edicola\bin\Debug\net8.0\Task_Edicola.runtimeconfig.json
+C:\Users\utente\Desktop\ACADEMY\Task_Edicola\Task_Edicola\bin\Debug\net8.0\Task_Edicola.dll
+C:\Users\utente\Desktop\ACADEMY\Task_Edicola\Task_Edicola\bin\Debug\net8.0\Task_Edicola.pdb
+C:\Users\utente\Desktop\ACADEMY\Task_Edicola\Task_Edicola\obj\Debug\net8.0\Task_Edicola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utente\Desktop\ACADEMY\Task_Edicola\Task_Edicola\obj\Debug\net8.0\Task_Edicola.AssemblyInfoInputs.cache
+C:\Users\utente\Desktop\ACADEMY\Task_Edicola\Task_Edicola\obj\Debug\net8.0\Task_Edicola.AssemblyInfo.cs
+C:\Users\utente\Desktop\ACADEMY\Task_Edicola\Task_Edicola\obj\Debug\net8.0\Task_Edicola.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\ACADEMY\Task_Edicola\Task_Edicola\obj\Debug\net8.0\Task_Edicola.sourcelink.json
+C:\Users\utente\Desktop\ACADEMY\Task_Edicola\Task_Edicola\obj\Debug\net8.0\Task_Edicola.dll
+C:\Users\utente\Desktop\ACADEMY\Task_Edicola\Task_Edicola\obj\Debug\net8.0\refint\Task_Edicola.dll
+C:\Users\utente\Desktop\ACADEMY\Task_Edicola\Task_Edicola\obj\Debug\net8.0\Task_Edicola.pdb
+C:\Users\utente\Desktop\ACADEMY\Task_Edicola\Task_Edicola\obj\Debug\net8.0\Task_Edicola.genruntimeconfig.cache
+C:\Users\utente\Desktop\ACADEMY\Task_Edicola\Task_Edicola\obj\Debug\net8.0\ref\Task_Edicola.dll

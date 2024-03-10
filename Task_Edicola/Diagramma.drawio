@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net" modified="2024-03-10T16:45:24.944Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="a44Z41myRHQfMFH9j5SU" version="24.0.4" type="device">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="254" dy="238" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="I2R-IPVzpQrVaKHB9k6L-0" value="&amp;lt;&amp;lt;abstract&amp;gt;&amp;gt;&lt;div&gt;Pubblicazioni&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="414" y="130" width="146" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="I2R-IPVzpQrVaKHB9k6L-1" value="&lt;div&gt;- codice : str&lt;/div&gt;&lt;div&gt;- stock : int&lt;/div&gt;&lt;div&gt;- vendite : int&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="414" y="165" width="146" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="I2R-IPVzpQrVaKHB9k6L-2" value="&amp;lt;&amp;lt;Contenitore&amp;gt;&amp;gt;&lt;div&gt;Edicola&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="140" y="150" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I2R-IPVzpQrVaKHB9k6L-3" value="&lt;div style=&quot;&quot;&gt;- redazione : str&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I2R-IPVzpQrVaKHB9k6L-4" value="- nome : str&lt;div&gt;- indirizzo : str&lt;br&gt;&lt;div&gt;List pubblicazioni&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="140" y="180" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="I2R-IPVzpQrVaKHB9k6L-5" value="&lt;div style=&quot;&quot;&gt;- titolo : str&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- categoria : str&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="540" y="420" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I2R-IPVzpQrVaKHB9k6L-10" value="Rivista" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="540" y="400" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I2R-IPVzpQrVaKHB9k6L-11" value="Giornale" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="400" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I2R-IPVzpQrVaKHB9k6L-12" value="+Giornale()" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I2R-IPVzpQrVaKHB9k6L-13" value="+Rivista()" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="540" y="480" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I2R-IPVzpQrVaKHB9k6L-14" value="+ Pubblicazioni()&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ stampaDettagli()&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="414" y="220" width="146" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I2R-IPVzpQrVaKHB9k6L-16" value="" style="endArrow=block;html=1;rounded=0;entryX=0.448;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="I2R-IPVzpQrVaKHB9k6L-14" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="400" as="sourcePoint" />
+            <mxPoint x="420" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2R-IPVzpQrVaKHB9k6L-17" value="" style="endArrow=block;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.437;exitY=0.06;exitDx=0;exitDy=0;exitPerimeter=0;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="I2R-IPVzpQrVaKHB9k6L-10" target="I2R-IPVzpQrVaKHB9k6L-14" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="360" as="sourcePoint" />
+            <mxPoint x="650" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2R-IPVzpQrVaKHB9k6L-18" value="" style="endArrow=diamondThin;html=1;rounded=0;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="150" as="sourcePoint" />
+            <mxPoint x="260" y="198" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2R-IPVzpQrVaKHB9k6L-19" value="+ Edicola ()&lt;div&gt;+ aggiungiMag()&lt;/div&gt;&lt;div&gt;+ rimuoviMag()&lt;/div&gt;&lt;div&gt;+ stampaElenco()&lt;/div&gt;&lt;div&gt;+ aggiornaStock()&lt;/div&gt;&lt;div&gt;+ updateVendite()&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="140" y="250" width="120" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
