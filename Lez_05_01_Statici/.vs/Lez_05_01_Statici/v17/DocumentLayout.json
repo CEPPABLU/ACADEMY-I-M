@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\ACADEMY\\Lez_05_01_Statici\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D0D0FE14-C11C-4564-8BED-D373F725B166}|Lez_05_01_Statici\\Lez_05_01_Statici.csproj|c:\\users\\utente\\desktop\\academy\\lez_05_01_statici\\lez_05_01_statici\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0D0FE14-C11C-4564-8BED-D373F725B166}|Lez_05_01_Statici\\Lez_05_01_Statici.csproj|solutionrelative:lez_05_01_statici\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D0D0FE14-C11C-4564-8BED-D373F725B166}|Lez_05_01_Statici\\Lez_05_01_Statici.csproj|c:\\users\\utente\\desktop\\academy\\lez_05_01_statici\\lez_05_01_statici\\clsses\\automobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0D0FE14-C11C-4564-8BED-D373F725B166}|Lez_05_01_Statici\\Lez_05_01_Statici.csproj|solutionrelative:lez_05_01_statici\\clsses\\automobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D0FE14-C11C-4564-8BED-D373F725B166}|Lez_05_01_Statici\\Lez_05_01_Statici.csproj|c:\\users\\utente\\desktop\\academy\\lez_05_01_statici\\lez_05_01_statici\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D0FE14-C11C-4564-8BED-D373F725B166}|Lez_05_01_Statici\\Lez_05_01_Statici.csproj|solutionrelative:lez_05_01_statici\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 231,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Automobile.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ACADEMY\\Lez_05_01_Statici\\Lez_05_01_Statici\\Clsses\\Automobile.cs",
               "RelativeDocumentMoniker": "Lez_05_01_Statici\\Clsses\\Automobile.cs",
               "ToolTip": "C:\\Users\\utente\\Desktop\\ACADEMY\\Lez_05_01_Statici\\Lez_05_01_Statici\\Clsses\\Automobile.cs",
               "RelativeToolTip": "Lez_05_01_Statici\\Clsses\\Automobile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABJAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBIAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-08T08:39:27.884Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ACADEMY\\Lez_05_01_Statici\\Lez_05_01_Statici\\Program.cs",
               "RelativeDocumentMoniker": "Lez_05_01_Statici\\Program.cs",

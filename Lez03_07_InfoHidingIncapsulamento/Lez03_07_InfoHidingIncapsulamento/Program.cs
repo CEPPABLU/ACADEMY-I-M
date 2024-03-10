@@ -26,9 +26,9 @@ namespace Lez03_07_InfoHidingIncapsulamento
 
             Console.WriteLine(suzuki.getCilindrata());
 
-            //Monopattino xiao = new Monopattino();
-            //xiao.Marca = "Xiaomi";
-            //xiao.NumPersone = 3;
+            Monopattino xiao = new Monopattino();
+            xiao.Marca = "Xiaomi";
+            xiao.NumPersone = 3;
 
             //Console.WriteLine(xiao.Marca);
             //Console.WriteLine(xiao.VelMax);

@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\ACADEMY\\Lez05_02_StaticiEreditari\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1FECD975-893D-409C-85D2-3DF742C67CBB}|Lez05_02_StaticiEreditari\\Lez05_02_StaticiEreditari.csproj|c:\\users\\utente\\desktop\\academy\\lez05_02_staticiereditari\\lez05_02_staticiereditari\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FECD975-893D-409C-85D2-3DF742C67CBB}|Lez05_02_StaticiEreditari\\Lez05_02_StaticiEreditari.csproj|solutionrelative:lez05_02_staticiereditari\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1FECD975-893D-409C-85D2-3DF742C67CBB}|Lez05_02_StaticiEreditari\\Lez05_02_StaticiEreditari.csproj|c:\\users\\utente\\desktop\\academy\\lez05_02_staticiereditari\\lez05_02_staticiereditari\\classes\\giocattolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FECD975-893D-409C-85D2-3DF742C67CBB}|Lez05_02_StaticiEreditari\\Lez05_02_StaticiEreditari.csproj|solutionrelative:lez05_02_staticiereditari\\classes\\giocattolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FECD975-893D-409C-85D2-3DF742C67CBB}|Lez05_02_StaticiEreditari\\Lez05_02_StaticiEreditari.csproj|c:\\users\\utente\\desktop\\academy\\lez05_02_staticiereditari\\lez05_02_staticiereditari\\classes\\trenino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FECD975-893D-409C-85D2-3DF742C67CBB}|Lez05_02_StaticiEreditari\\Lez05_02_StaticiEreditari.csproj|solutionrelative:lez05_02_staticiereditari\\classes\\trenino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1FECD975-893D-409C-85D2-3DF742C67CBB}|Lez05_02_StaticiEreditari\\Lez05_02_StaticiEreditari.csproj|c:\\users\\utente\\desktop\\academy\\lez05_02_staticiereditari\\lez05_02_staticiereditari\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FECD975-893D-409C-85D2-3DF742C67CBB}|Lez05_02_StaticiEreditari\\Lez05_02_StaticiEreditari.csproj|solutionrelative:lez05_02_staticiereditari\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1FECD975-893D-409C-85D2-3DF742C67CBB}|Lez05_02_StaticiEreditari\\Lez05_02_StaticiEreditari.csproj|c:\\users\\utente\\desktop\\academy\\lez05_02_staticiereditari\\lez05_02_staticiereditari\\classes\\automobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1FECD975-893D-409C-85D2-3DF742C67CBB}|Lez05_02_StaticiEreditari\\Lez05_02_StaticiEreditari.csproj|solutionrelative:lez05_02_staticiereditari\\classes\\automobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FECD975-893D-409C-85D2-3DF742C67CBB}|Lez05_02_StaticiEreditari\\Lez05_02_StaticiEreditari.csproj|c:\\users\\utente\\desktop\\academy\\lez05_02_staticiereditari\\lez05_02_staticiereditari\\classes\\giocattolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FECD975-893D-409C-85D2-3DF742C67CBB}|Lez05_02_StaticiEreditari\\Lez05_02_StaticiEreditari.csproj|solutionrelative:lez05_02_staticiereditari\\classes\\giocattolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1FECD975-893D-409C-85D2-3DF742C67CBB}|Lez05_02_StaticiEreditari\\Lez05_02_StaticiEreditari.csproj|c:\\users\\utente\\desktop\\academy\\lez05_02_staticiereditari\\lez05_02_staticiereditari\\classes\\trenino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FECD975-893D-409C-85D2-3DF742C67CBB}|Lez05_02_StaticiEreditari\\Lez05_02_StaticiEreditari.csproj|solutionrelative:lez05_02_staticiereditari\\classes\\trenino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 231,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Trenino.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ACADEMY\\Lez05_02_StaticiEreditari\\Lez05_02_StaticiEreditari\\CLasses\\Trenino.cs",
               "RelativeDocumentMoniker": "Lez05_02_StaticiEreditari\\CLasses\\Trenino.cs",
@@ -56,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Giocattolo.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ACADEMY\\Lez05_02_StaticiEreditari\\Lez05_02_StaticiEreditari\\CLasses\\Giocattolo.cs",
               "RelativeDocumentMoniker": "Lez05_02_StaticiEreditari\\CLasses\\Giocattolo.cs",
@@ -69,7 +69,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ACADEMY\\Lez05_02_StaticiEreditari\\Lez05_02_StaticiEreditari\\Program.cs",
               "RelativeDocumentMoniker": "Lez05_02_StaticiEreditari\\Program.cs",

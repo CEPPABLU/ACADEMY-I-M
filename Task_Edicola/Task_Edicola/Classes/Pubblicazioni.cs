@@ -8,9 +8,31 @@ namespace Task_Edicola.Classes
 {
     internal abstract class Pubblicazioni
     {
-        public string? Codice { get; set; }
-        public int? Stock { get; set; }
-        public int? Vendite { get; set; }
+        //protected string? Codice { get; private set; }
+        //protected int? Stock { get; private set; }
+        //protected int? Vendite { get; private set; }
+        protected string? codice;
+        protected int? stock;
+        protected int? vendite;
+
+        public string? Codice
+        {
+            get { return codice; }
+            set { codice = value; }
+        }
+
+
+        public int? Vendite
+        {
+            get { return vendite; }
+            set { vendite = value; }
+        }
+
+        public int? Stock
+        {
+            get { return stock; }
+            set { stock = value; }
+        }
 
         //public static int contatore { get; private set; } = 0;
 

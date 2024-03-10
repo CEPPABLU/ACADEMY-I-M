@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\ACADEMY\\Lez03_07_InfoHidingIncapsulamento\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{25B2E36F-E92F-49A7-B634-57047D25FBCE}|Lez03_07_InfoHidingIncapsulamento\\Lez03_07_InfoHidingIncapsulamento.csproj|c:\\users\\utente\\desktop\\academy\\lez03_07_infohidingincapsulamento\\lez03_07_infohidingincapsulamento\\classes\\bicicletta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25B2E36F-E92F-49A7-B634-57047D25FBCE}|Lez03_07_InfoHidingIncapsulamento\\Lez03_07_InfoHidingIncapsulamento.csproj|solutionrelative:lez03_07_infohidingincapsulamento\\classes\\bicicletta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{25B2E36F-E92F-49A7-B634-57047D25FBCE}|Lez03_07_InfoHidingIncapsulamento\\Lez03_07_InfoHidingIncapsulamento.csproj|c:\\users\\utente\\desktop\\academy\\lez03_07_infohidingincapsulamento\\lez03_07_infohidingincapsulamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25B2E36F-E92F-49A7-B634-57047D25FBCE}|Lez03_07_InfoHidingIncapsulamento\\Lez03_07_InfoHidingIncapsulamento.csproj|solutionrelative:lez03_07_infohidingincapsulamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25B2E36F-E92F-49A7-B634-57047D25FBCE}|Lez03_07_InfoHidingIncapsulamento\\Lez03_07_InfoHidingIncapsulamento.csproj|c:\\users\\utente\\desktop\\academy\\lez03_07_infohidingincapsulamento\\lez03_07_infohidingincapsulamento\\classes\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25B2E36F-E92F-49A7-B634-57047D25FBCE}|Lez03_07_InfoHidingIncapsulamento\\Lez03_07_InfoHidingIncapsulamento.csproj|solutionrelative:lez03_07_infohidingincapsulamento\\classes\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25B2E36F-E92F-49A7-B634-57047D25FBCE}|Lez03_07_InfoHidingIncapsulamento\\Lez03_07_InfoHidingIncapsulamento.csproj|c:\\users\\utente\\desktop\\academy\\lez03_07_infohidingincapsulamento\\lez03_07_infohidingincapsulamento\\classes\\monopattino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B2E36F-E92F-49A7-B634-57047D25FBCE}|Lez03_07_InfoHidingIncapsulamento\\Lez03_07_InfoHidingIncapsulamento.csproj|solutionrelative:lez03_07_infohidingincapsulamento\\classes\\monopattino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B2E36F-E92F-49A7-B634-57047D25FBCE}|Lez03_07_InfoHidingIncapsulamento\\Lez03_07_InfoHidingIncapsulamento.csproj|c:\\users\\utente\\desktop\\academy\\lez03_07_infohidingincapsulamento\\lez03_07_infohidingincapsulamento\\classes\\bicicletta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B2E36F-E92F-49A7-B634-57047D25FBCE}|Lez03_07_InfoHidingIncapsulamento\\Lez03_07_InfoHidingIncapsulamento.csproj|solutionrelative:lez03_07_infohidingincapsulamento\\classes\\bicicletta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{25B2E36F-E92F-49A7-B634-57047D25FBCE}|Lez03_07_InfoHidingIncapsulamento\\Lez03_07_InfoHidingIncapsulamento.csproj|c:\\users\\utente\\desktop\\academy\\lez03_07_infohidingincapsulamento\\lez03_07_infohidingincapsulamento\\classes\\automobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25B2E36F-E92F-49A7-B634-57047D25FBCE}|Lez03_07_InfoHidingIncapsulamento\\Lez03_07_InfoHidingIncapsulamento.csproj|solutionrelative:lez03_07_infohidingincapsulamento\\classes\\automobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25B2E36F-E92F-49A7-B634-57047D25FBCE}|Lez03_07_InfoHidingIncapsulamento\\Lez03_07_InfoHidingIncapsulamento.csproj|c:\\users\\utente\\desktop\\academy\\lez03_07_infohidingincapsulamento\\lez03_07_infohidingincapsulamento\\classes\\monopattino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25B2E36F-E92F-49A7-B634-57047D25FBCE}|Lez03_07_InfoHidingIncapsulamento\\Lez03_07_InfoHidingIncapsulamento.csproj|solutionrelative:lez03_07_infohidingincapsulamento\\classes\\monopattino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25B2E36F-E92F-49A7-B634-57047D25FBCE}|Lez03_07_InfoHidingIncapsulamento\\Lez03_07_InfoHidingIncapsulamento.csproj|c:\\users\\utente\\desktop\\academy\\lez03_07_infohidingincapsulamento\\lez03_07_infohidingincapsulamento\\classes\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B2E36F-E92F-49A7-B634-57047D25FBCE}|Lez03_07_InfoHidingIncapsulamento\\Lez03_07_InfoHidingIncapsulamento.csproj|solutionrelative:lez03_07_infohidingincapsulamento\\classes\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,20 +34,20 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ACADEMY\\Lez03_07_InfoHidingIncapsulamento\\Lez03_07_InfoHidingIncapsulamento\\Program.cs",
               "RelativeDocumentMoniker": "Lez03_07_InfoHidingIncapsulamento\\Program.cs",
               "ToolTip": "C:\\Users\\utente\\Desktop\\ACADEMY\\Lez03_07_InfoHidingIncapsulamento\\Lez03_07_InfoHidingIncapsulamento\\Program.cs",
               "RelativeToolTip": "Lez03_07_InfoHidingIncapsulamento\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAmAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwB4AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-06T13:51:54.554Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Moto.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ACADEMY\\Lez03_07_InfoHidingIncapsulamento\\Lez03_07_InfoHidingIncapsulamento\\Classes\\Moto.cs",
               "RelativeDocumentMoniker": "Lez03_07_InfoHidingIncapsulamento\\Classes\\Moto.cs",
@@ -55,14 +55,13 @@
               "RelativeToolTip": "Lez03_07_InfoHidingIncapsulamento\\Classes\\Moto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T20:02:54.386Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-06T20:02:54.386Z"
             }
           ]
         },
         {
           "DockedWidth": 294,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -79,26 +78,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Bicicletta.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ACADEMY\\Lez03_07_InfoHidingIncapsulamento\\Lez03_07_InfoHidingIncapsulamento\\Classes\\Bicicletta.cs",
               "RelativeDocumentMoniker": "Lez03_07_InfoHidingIncapsulamento\\Classes\\Bicicletta.cs",
               "ToolTip": "C:\\Users\\utente\\Desktop\\ACADEMY\\Lez03_07_InfoHidingIncapsulamento\\Lez03_07_InfoHidingIncapsulamento\\Classes\\Bicicletta.cs",
               "RelativeToolTip": "Lez03_07_InfoHidingIncapsulamento\\Classes\\Bicicletta.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAYwAkAAAAIAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAkwAkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-06T15:27:29.016Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Monopattino.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ACADEMY\\Lez03_07_InfoHidingIncapsulamento\\Lez03_07_InfoHidingIncapsulamento\\Classes\\Monopattino.cs",
               "RelativeDocumentMoniker": "Lez03_07_InfoHidingIncapsulamento\\Classes\\Monopattino.cs",
               "ToolTip": "C:\\Users\\utente\\Desktop\\ACADEMY\\Lez03_07_InfoHidingIncapsulamento\\Lez03_07_InfoHidingIncapsulamento\\Classes\\Monopattino.cs",
               "RelativeToolTip": "Lez03_07_InfoHidingIncapsulamento\\Classes\\Monopattino.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-06T20:03:50.373Z",
               "EditorCaption": ""
