@@ -1,0 +1,14 @@
+C:\Users\utente\source\repos\DB_lez01_introduzione\DB_lez01_introduzione\bin\Debug\net8.0\DB_lez01_introduzione.exe
+C:\Users\utente\source\repos\DB_lez01_introduzione\DB_lez01_introduzione\bin\Debug\net8.0\DB_lez01_introduzione.deps.json
+C:\Users\utente\source\repos\DB_lez01_introduzione\DB_lez01_introduzione\bin\Debug\net8.0\DB_lez01_introduzione.runtimeconfig.json
+C:\Users\utente\source\repos\DB_lez01_introduzione\DB_lez01_introduzione\bin\Debug\net8.0\DB_lez01_introduzione.dll
+C:\Users\utente\source\repos\DB_lez01_introduzione\DB_lez01_introduzione\bin\Debug\net8.0\DB_lez01_introduzione.pdb
+C:\Users\utente\source\repos\DB_lez01_introduzione\DB_lez01_introduzione\obj\Debug\net8.0\DB_lez01_introduzione.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utente\source\repos\DB_lez01_introduzione\DB_lez01_introduzione\obj\Debug\net8.0\DB_lez01_introduzione.AssemblyInfoInputs.cache
+C:\Users\utente\source\repos\DB_lez01_introduzione\DB_lez01_introduzione\obj\Debug\net8.0\DB_lez01_introduzione.AssemblyInfo.cs
+C:\Users\utente\source\repos\DB_lez01_introduzione\DB_lez01_introduzione\obj\Debug\net8.0\DB_lez01_introduzione.csproj.CoreCompileInputs.cache
+C:\Users\utente\source\repos\DB_lez01_introduzione\DB_lez01_introduzione\obj\Debug\net8.0\DB_lez01_introduzione.dll
+C:\Users\utente\source\repos\DB_lez01_introduzione\DB_lez01_introduzione\obj\Debug\net8.0\refint\DB_lez01_introduzione.dll
+C:\Users\utente\source\repos\DB_lez01_introduzione\DB_lez01_introduzione\obj\Debug\net8.0\DB_lez01_introduzione.pdb
+C:\Users\utente\source\repos\DB_lez01_introduzione\DB_lez01_introduzione\obj\Debug\net8.0\DB_lez01_introduzione.genruntimeconfig.cache
+C:\Users\utente\source\repos\DB_lez01_introduzione\DB_lez01_introduzione\obj\Debug\net8.0\ref\DB_lez01_introduzione.dll

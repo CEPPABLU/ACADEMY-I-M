@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\ACADEMY\\Task_Edicola\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2F0B655B-D355-440F-A29B-F795A6820298}|Task_Edicola\\Task_Edicola.csproj|c:\\users\\utente\\desktop\\academy\\task_edicola\\task_edicola\\classes\\edicola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F0B655B-D355-440F-A29B-F795A6820298}|Task_Edicola\\Task_Edicola.csproj|solutionrelative:task_edicola\\classes\\edicola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2F0B655B-D355-440F-A29B-F795A6820298}|Task_Edicola\\Task_Edicola.csproj|c:\\users\\utente\\desktop\\academy\\task_edicola\\task_edicola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F0B655B-D355-440F-A29B-F795A6820298}|Task_Edicola\\Task_Edicola.csproj|solutionrelative:task_edicola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,16 +15,12 @@
       "RelativeMoniker": "D:0:0:{2F0B655B-D355-440F-A29B-F795A6820298}|Task_Edicola\\Task_Edicola.csproj|solutionrelative:task_edicola\\classes\\pubblicazioni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F0B655B-D355-440F-A29B-F795A6820298}|Task_Edicola\\Task_Edicola.csproj|c:\\users\\utente\\desktop\\academy\\task_edicola\\task_edicola\\classes\\rivista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F0B655B-D355-440F-A29B-F795A6820298}|Task_Edicola\\Task_Edicola.csproj|solutionrelative:task_edicola\\classes\\rivista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F0B655B-D355-440F-A29B-F795A6820298}|Task_Edicola\\Task_Edicola.csproj|c:\\users\\utente\\desktop\\academy\\task_edicola\\task_edicola\\classes\\edicola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F0B655B-D355-440F-A29B-F795A6820298}|Task_Edicola\\Task_Edicola.csproj|solutionrelative:task_edicola\\classes\\edicola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2F0B655B-D355-440F-A29B-F795A6820298}|Task_Edicola\\Task_Edicola.csproj|c:\\users\\utente\\desktop\\academy\\task_edicola\\task_edicola\\classes\\giornale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F0B655B-D355-440F-A29B-F795A6820298}|Task_Edicola\\Task_Edicola.csproj|solutionrelative:task_edicola\\classes\\giornale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0B655B-D355-440F-A29B-F795A6820298}|Task_Edicola\\Task_Edicola.csproj|c:\\users\\utente\\desktop\\academy\\task_edicola\\task_edicola\\classes\\rivista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F0B655B-D355-440F-A29B-F795A6820298}|Task_Edicola\\Task_Edicola.csproj|solutionrelative:task_edicola\\classes\\rivista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,47 +30,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 317,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Edicola.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ACADEMY\\Task_Edicola\\Task_Edicola\\Classes\\Edicola.cs",
               "RelativeDocumentMoniker": "Task_Edicola\\Classes\\Edicola.cs",
               "ToolTip": "C:\\Users\\utente\\Desktop\\ACADEMY\\Task_Edicola\\Task_Edicola\\Classes\\Edicola.cs",
               "RelativeToolTip": "Task_Edicola\\Classes\\Edicola.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAAzAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA8wBYAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T13:43:43.608Z"
+              "WhenOpened": "2024-03-08T13:43:43.608Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Giornale.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ACADEMY\\Task_Edicola\\Task_Edicola\\Classes\\Giornale.cs",
               "RelativeDocumentMoniker": "Task_Edicola\\Classes\\Giornale.cs",
               "ToolTip": "C:\\Users\\utente\\Desktop\\ACADEMY\\Task_Edicola\\Task_Edicola\\Classes\\Giornale.cs",
               "RelativeToolTip": "Task_Edicola\\Classes\\Giornale.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T14:54:21.212Z"
+              "WhenOpened": "2024-03-08T14:54:21.212Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Rivista.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ACADEMY\\Task_Edicola\\Task_Edicola\\Classes\\Rivista.cs",
               "RelativeDocumentMoniker": "Task_Edicola\\Classes\\Rivista.cs",
               "ToolTip": "C:\\Users\\utente\\Desktop\\ACADEMY\\Task_Edicola\\Task_Edicola\\Classes\\Rivista.cs",
               "RelativeToolTip": "Task_Edicola\\Classes\\Rivista.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAcAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBMAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T14:53:26.708Z"
+              "WhenOpened": "2024-03-08T14:53:26.708Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Pubblicazioni.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ACADEMY\\Task_Edicola\\Task_Edicola\\Classes\\Pubblicazioni.cs",
               "RelativeDocumentMoniker": "Task_Edicola\\Classes\\Pubblicazioni.cs",
@@ -89,13 +92,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ACADEMY\\Task_Edicola\\Task_Edicola\\Program.cs",
               "RelativeDocumentMoniker": "Task_Edicola\\Program.cs",
               "ToolTip": "C:\\Users\\utente\\Desktop\\ACADEMY\\Task_Edicola\\Task_Edicola\\Program.cs",
               "RelativeToolTip": "Task_Edicola\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABUAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-08T13:40:24.68Z",
               "EditorCaption": ""

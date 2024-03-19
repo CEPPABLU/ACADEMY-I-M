@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\ACADEMY\\Eserc_01_LINQ_Lista_Prodotti\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EFBA35E-401B-4F40-8238-3BD82F980AAF}|Eserc_01_LINQ_Lista_Prodotti\\Eserc_01_LINQ_Lista_Prodotti.csproj|c:\\users\\utente\\desktop\\academy\\eserc_01_linq_lista_prodotti\\eserc_01_linq_lista_prodotti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EFBA35E-401B-4F40-8238-3BD82F980AAF}|Eserc_01_LINQ_Lista_Prodotti\\Eserc_01_LINQ_Lista_Prodotti.csproj|solutionrelative:eserc_01_linq_lista_prodotti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EFBA35E-401B-4F40-8238-3BD82F980AAF}|Eserc_01_LINQ_Lista_Prodotti\\Eserc_01_LINQ_Lista_Prodotti.csproj|c:\\users\\utente\\desktop\\academy\\eserc_01_linq_lista_prodotti\\eserc_01_linq_lista_prodotti\\classes\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EFBA35E-401B-4F40-8238-3BD82F980AAF}|Eserc_01_LINQ_Lista_Prodotti\\Eserc_01_LINQ_Lista_Prodotti.csproj|solutionrelative:eserc_01_linq_lista_prodotti\\classes\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Prodotto.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ACADEMY\\Eserc_01_LINQ_Lista_Prodotti\\Eserc_01_LINQ_Lista_Prodotti\\Classes\\Prodotto.cs",
+              "RelativeDocumentMoniker": "Eserc_01_LINQ_Lista_Prodotti\\Classes\\Prodotto.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\ACADEMY\\Eserc_01_LINQ_Lista_Prodotti\\Eserc_01_LINQ_Lista_Prodotti\\Classes\\Prodotto.cs",
+              "RelativeToolTip": "Eserc_01_LINQ_Lista_Prodotti\\Classes\\Prodotto.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T14:34:25.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ACADEMY\\Eserc_01_LINQ_Lista_Prodotti\\Eserc_01_LINQ_Lista_Prodotti\\Program.cs",
+              "RelativeDocumentMoniker": "Eserc_01_LINQ_Lista_Prodotti\\Program.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\ACADEMY\\Eserc_01_LINQ_Lista_Prodotti\\Eserc_01_LINQ_Lista_Prodotti\\Program.cs",
+              "RelativeToolTip": "Eserc_01_LINQ_Lista_Prodotti\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAFAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T14:31:08.353Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
