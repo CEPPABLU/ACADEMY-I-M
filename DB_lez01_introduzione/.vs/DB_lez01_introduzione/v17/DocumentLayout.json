@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\utente\\source\\repos\\DB_lez01_introduzione\\",
+  "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\ACADEMY\\DB_lez01_introduzione\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2A783CDA-40F6-4015-B7B5-896096FD806E}|DB_lez01_introduzione\\DB_lez01_introduzione.csproj|c:\\users\\utente\\source\\repos\\db_lez01_introduzione\\db_lez01_introduzione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2A783CDA-40F6-4015-B7B5-896096FD806E}|DB_lez01_introduzione\\DB_lez01_introduzione.csproj|c:\\users\\utente\\desktop\\academy\\db_lez01_introduzione\\db_lez01_introduzione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A783CDA-40F6-4015-B7B5-896096FD806E}|DB_lez01_introduzione\\DB_lez01_introduzione.csproj|solutionrelative:db_lez01_introduzione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A783CDA-40F6-4015-B7B5-896096FD806E}|DB_lez01_introduzione\\DB_lez01_introduzione.csproj|c:\\users\\utente\\desktop\\academy\\db_lez01_introduzione\\db_lez01_introduzione\\models\\citta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A783CDA-40F6-4015-B7B5-896096FD806E}|DB_lez01_introduzione\\DB_lez01_introduzione.csproj|solutionrelative:db_lez01_introduzione\\models\\citta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +18,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Citta.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ACADEMY\\DB_lez01_introduzione\\DB_lez01_introduzione\\Models\\Citta.cs",
+              "RelativeDocumentMoniker": "DB_lez01_introduzione\\Models\\Citta.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\ACADEMY\\DB_lez01_introduzione\\DB_lez01_introduzione\\Models\\Citta.cs",
+              "RelativeToolTip": "DB_lez01_introduzione\\Models\\Citta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T10:18:42.199Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\DB_lez01_introduzione\\DB_lez01_introduzione\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ACADEMY\\DB_lez01_introduzione\\DB_lez01_introduzione\\Program.cs",
               "RelativeDocumentMoniker": "DB_lez01_introduzione\\Program.cs",
-              "ToolTip": "C:\\Users\\utente\\source\\repos\\DB_lez01_introduzione\\DB_lez01_introduzione\\Program.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\ACADEMY\\DB_lez01_introduzione\\DB_lez01_introduzione\\Program.cs",
               "RelativeToolTip": "DB_lez01_introduzione\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAB4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-19T08:31:32.534Z",
               "EditorCaption": ""

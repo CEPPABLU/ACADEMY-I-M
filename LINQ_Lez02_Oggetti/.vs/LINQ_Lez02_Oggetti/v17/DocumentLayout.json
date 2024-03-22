@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\ACADEMY\\LINQ_Lez02_Oggetti\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{05A0E78D-16CD-4D7A-AB18-6F624E29DB79}|LINQ_Lez02_Oggetti\\LINQ_Lez02_Oggetti.csproj|c:\\users\\utente\\desktop\\academy\\linq_lez02_oggetti\\linq_lez02_oggetti\\classes\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05A0E78D-16CD-4D7A-AB18-6F624E29DB79}|LINQ_Lez02_Oggetti\\LINQ_Lez02_Oggetti.csproj|solutionrelative:linq_lez02_oggetti\\classes\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{05A0E78D-16CD-4D7A-AB18-6F624E29DB79}|LINQ_Lez02_Oggetti\\LINQ_Lez02_Oggetti.csproj|c:\\users\\utente\\desktop\\academy\\linq_lez02_oggetti\\linq_lez02_oggetti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05A0E78D-16CD-4D7A-AB18-6F624E29DB79}|LINQ_Lez02_Oggetti\\LINQ_Lez02_Oggetti.csproj|solutionrelative:linq_lez02_oggetti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A0E78D-16CD-4D7A-AB18-6F624E29DB79}|LINQ_Lez02_Oggetti\\LINQ_Lez02_Oggetti.csproj|c:\\users\\utente\\desktop\\academy\\linq_lez02_oggetti\\linq_lez02_oggetti\\classes\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A0E78D-16CD-4D7A-AB18-6F624E29DB79}|LINQ_Lez02_Oggetti\\LINQ_Lez02_Oggetti.csproj|solutionrelative:linq_lez02_oggetti\\classes\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 317,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Studente.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ACADEMY\\LINQ_Lez02_Oggetti\\LINQ_Lez02_Oggetti\\Classes\\Studente.cs",
               "RelativeDocumentMoniker": "LINQ_Lez02_Oggetti\\Classes\\Studente.cs",
@@ -35,7 +35,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ACADEMY\\LINQ_Lez02_Oggetti\\LINQ_Lez02_Oggetti\\Program.cs",
               "RelativeDocumentMoniker": "LINQ_Lez02_Oggetti\\Program.cs",

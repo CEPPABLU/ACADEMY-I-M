@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\source\\repos\\Eser_Join_Uni\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F376E9E-B329-49AF-814F-AA188E21480C}|Eser_Join_Uni\\Eser_Join_Uni.csproj|c:\\users\\utente\\source\\repos\\eser_join_uni\\eser_join_uni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F376E9E-B329-49AF-814F-AA188E21480C}|Eser_Join_Uni\\Eser_Join_Uni.csproj|solutionrelative:eser_join_uni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F376E9E-B329-49AF-814F-AA188E21480C}|Eser_Join_Uni\\Eser_Join_Uni.csproj|c:\\users\\utente\\source\\repos\\eser_join_uni\\eser_join_uni\\models\\esame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F376E9E-B329-49AF-814F-AA188E21480C}|Eser_Join_Uni\\Eser_Join_Uni.csproj|solutionrelative:eser_join_uni\\models\\esame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F376E9E-B329-49AF-814F-AA188E21480C}|Eser_Join_Uni\\Eser_Join_Uni.csproj|c:\\users\\utente\\source\\repos\\eser_join_uni\\eser_join_uni\\models\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F376E9E-B329-49AF-814F-AA188E21480C}|Eser_Join_Uni\\Eser_Join_Uni.csproj|solutionrelative:eser_join_uni\\models\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F376E9E-B329-49AF-814F-AA188E21480C}|Eser_Join_Uni\\Eser_Join_Uni.csproj|c:\\users\\utente\\source\\repos\\eser_join_uni\\eser_join_uni\\models\\acclez09mtmuniversitacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F376E9E-B329-49AF-814F-AA188E21480C}|Eser_Join_Uni\\Eser_Join_Uni.csproj|solutionrelative:eser_join_uni\\models\\acclez09mtmuniversitacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Esame.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Eser_Join_Uni\\Eser_Join_Uni\\Models\\Esame.cs",
+              "RelativeDocumentMoniker": "Eser_Join_Uni\\Models\\Esame.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\Eser_Join_Uni\\Eser_Join_Uni\\Models\\Esame.cs",
+              "RelativeToolTip": "Eser_Join_Uni\\Models\\Esame.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T16:24:59.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Studente.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Eser_Join_Uni\\Eser_Join_Uni\\Models\\Studente.cs",
+              "RelativeDocumentMoniker": "Eser_Join_Uni\\Models\\Studente.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\Eser_Join_Uni\\Eser_Join_Uni\\Models\\Studente.cs",
+              "RelativeToolTip": "Eser_Join_Uni\\Models\\Studente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T16:24:52.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccLez09MtmUniversitaContext.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Eser_Join_Uni\\Eser_Join_Uni\\Models\\AccLez09MtmUniversitaContext.cs",
+              "RelativeDocumentMoniker": "Eser_Join_Uni\\Models\\AccLez09MtmUniversitaContext.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\Eser_Join_Uni\\Eser_Join_Uni\\Models\\AccLez09MtmUniversitaContext.cs",
+              "RelativeToolTip": "Eser_Join_Uni\\Models\\AccLez09MtmUniversitaContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T16:21:59.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Eser_Join_Uni\\Eser_Join_Uni\\Program.cs",
+              "RelativeDocumentMoniker": "Eser_Join_Uni\\Program.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\Eser_Join_Uni\\Eser_Join_Uni\\Program.cs",
+              "RelativeToolTip": "Eser_Join_Uni\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T16:14:07.428Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

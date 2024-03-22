@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\source\\repos\\DB_lez_ef_introduzione\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACB3205-C551-4568-8D83-2FC63DC48F79}|DB_lez_ef_introduzione\\DB_lez_ef_introduzione.csproj|c:\\users\\utente\\source\\repos\\db_lez_ef_introduzione\\db_lez_ef_introduzione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ACB3205-C551-4568-8D83-2FC63DC48F79}|DB_lez_ef_introduzione\\DB_lez_ef_introduzione.csproj|solutionrelative:db_lez_ef_introduzione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACB3205-C551-4568-8D83-2FC63DC48F79}|DB_lez_ef_introduzione\\DB_lez_ef_introduzione.csproj|c:\\users\\utente\\source\\repos\\db_lez_ef_introduzione\\db_lez_ef_introduzione\\models\\cartum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ACB3205-C551-4568-8D83-2FC63DC48F79}|DB_lez_ef_introduzione\\DB_lez_ef_introduzione.csproj|solutionrelative:db_lez_ef_introduzione\\models\\cartum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACB3205-C551-4568-8D83-2FC63DC48F79}|DB_lez_ef_introduzione\\DB_lez_ef_introduzione.csproj|c:\\users\\utente\\source\\repos\\db_lez_ef_introduzione\\db_lez_ef_introduzione\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ACB3205-C551-4568-8D83-2FC63DC48F79}|DB_lez_ef_introduzione\\DB_lez_ef_introduzione.csproj|solutionrelative:db_lez_ef_introduzione\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACB3205-C551-4568-8D83-2FC63DC48F79}|DB_lez_ef_introduzione\\DB_lez_ef_introduzione.csproj|c:\\users\\utente\\source\\repos\\db_lez_ef_introduzione\\db_lez_ef_introduzione\\models\\acclez07otmcartacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ACB3205-C551-4568-8D83-2FC63DC48F79}|DB_lez_ef_introduzione\\DB_lez_ef_introduzione.csproj|solutionrelative:db_lez_ef_introduzione\\models\\acclez07otmcartacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\DB_lez_ef_introduzione\\DB_lez_ef_introduzione\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "DB_lez_ef_introduzione\\Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\DB_lez_ef_introduzione\\DB_lez_ef_introduzione\\Models\\Persona.cs",
+              "RelativeToolTip": "DB_lez_ef_introduzione\\Models\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T14:58:56.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cartum.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\DB_lez_ef_introduzione\\DB_lez_ef_introduzione\\Models\\Cartum.cs",
+              "RelativeDocumentMoniker": "DB_lez_ef_introduzione\\Models\\Cartum.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\DB_lez_ef_introduzione\\DB_lez_ef_introduzione\\Models\\Cartum.cs",
+              "RelativeToolTip": "DB_lez_ef_introduzione\\Models\\Cartum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T14:58:40.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccLez07OtmCartaContext.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\DB_lez_ef_introduzione\\DB_lez_ef_introduzione\\Models\\AccLez07OtmCartaContext.cs",
+              "RelativeDocumentMoniker": "DB_lez_ef_introduzione\\Models\\AccLez07OtmCartaContext.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\DB_lez_ef_introduzione\\DB_lez_ef_introduzione\\Models\\AccLez07OtmCartaContext.cs",
+              "RelativeToolTip": "DB_lez_ef_introduzione\\Models\\AccLez07OtmCartaContext.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAkwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T14:58:29.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\DB_lez_ef_introduzione\\DB_lez_ef_introduzione\\Program.cs",
+              "RelativeDocumentMoniker": "DB_lez_ef_introduzione\\Program.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\DB_lez_ef_introduzione\\DB_lez_ef_introduzione\\Program.cs",
+              "RelativeToolTip": "DB_lez_ef_introduzione\\Program.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAwDcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T14:35:09.179Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
