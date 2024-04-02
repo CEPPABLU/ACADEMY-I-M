@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Eser_Join_Uni")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1055c284ef27a0dc0a692e47a4d6045f1aacb2d5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Eser_Join_Uni")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Eser_Join_Uni")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

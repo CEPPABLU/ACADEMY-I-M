@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eE4ruNDDZdKIPGiJUhEaQKijmeuMCLG91TInZ1IdNIIQ7+YO0JGb9eD8hgXoQ/e5KYg9QafOppDXlTxuotGbKw==",
+  "dgSpecHash": "1YwuxoozWszxz1DfNMXGsao/vsW2Mt//fZXewrqlrRxiaKx9KxH5V2VitbEKiA/eWzlh8WsWRh4+Sb9AyjJ2xA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\utente\\source\\repos\\Eser_Join_Uni\\Eser_Join_Uni\\Eser_Join_Uni.csproj",
+  "projectFilePath": "C:\\Users\\utente\\Desktop\\ACADEMY\\Eser_Join_Uni\\Eser_Join_Uni\\Eser_Join_Uni.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\utente\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\utente\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
