@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Asp_WEB_lez01_test/1.0.0": {
+        "runtime": {
+          "Asp_WEB_lez01_test.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Asp_WEB_lez01_test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -45,7 +45,6 @@ namespace asp_lez02_EF_libreria.Repositories
             {
                 try
                 {
-
                     ctx.Libros.Add(t);
                     ctx.SaveChanges();
                     risultato = true;
@@ -115,7 +114,7 @@ namespace asp_lez02_EF_libreria.Repositories
 
         public bool delete(Libro t)
         {
-            throw new NotImplementedException();
+            return false;
         }
     }
 }

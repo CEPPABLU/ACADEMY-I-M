@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\ACADEMY\\ASP_WEB_lex02_Negozio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90163168-905C-4939-AAE3-A4A3A01E7B82}|ASP_WEB_lex02_Negozio\\ASP_WEB_lex02_Negozio.csproj|c:\\users\\utente\\desktop\\academy\\asp_web_lex02_negozio\\asp_web_lex02_negozio\\repos\\prodottorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90163168-905C-4939-AAE3-A4A3A01E7B82}|ASP_WEB_lex02_Negozio\\ASP_WEB_lex02_Negozio.csproj|solutionrelative:asp_web_lex02_negozio\\repos\\prodottorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90163168-905C-4939-AAE3-A4A3A01E7B82}|ASP_WEB_lex02_Negozio\\ASP_WEB_lex02_Negozio.csproj|c:\\users\\utente\\desktop\\academy\\asp_web_lex02_negozio\\asp_web_lex02_negozio\\models\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90163168-905C-4939-AAE3-A4A3A01E7B82}|ASP_WEB_lex02_Negozio\\ASP_WEB_lex02_Negozio.csproj|solutionrelative:asp_web_lex02_negozio\\models\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90163168-905C-4939-AAE3-A4A3A01E7B82}|ASP_WEB_lex02_Negozio\\ASP_WEB_lex02_Negozio.csproj|c:\\users\\utente\\desktop\\academy\\asp_web_lex02_negozio\\asp_web_lex02_negozio\\models\\acclez06negoziocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90163168-905C-4939-AAE3-A4A3A01E7B82}|ASP_WEB_lex02_Negozio\\ASP_WEB_lex02_Negozio.csproj|solutionrelative:asp_web_lex02_negozio\\models\\acclez06negoziocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90163168-905C-4939-AAE3-A4A3A01E7B82}|ASP_WEB_lex02_Negozio\\ASP_WEB_lex02_Negozio.csproj|c:\\users\\utente\\desktop\\academy\\asp_web_lex02_negozio\\asp_web_lex02_negozio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{90163168-905C-4939-AAE3-A4A3A01E7B82}|ASP_WEB_lex02_Negozio\\ASP_WEB_lex02_Negozio.csproj|solutionrelative:asp_web_lex02_negozio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90163168-905C-4939-AAE3-A4A3A01E7B82}|ASP_WEB_lex02_Negozio\\ASP_WEB_lex02_Negozio.csproj|c:\\users\\utente\\desktop\\academy\\asp_web_lex02_negozio\\asp_web_lex02_negozio\\repos\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90163168-905C-4939-AAE3-A4A3A01E7B82}|ASP_WEB_lex02_Negozio\\ASP_WEB_lex02_Negozio.csproj|solutionrelative:asp_web_lex02_negozio\\repos\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 201,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ACADEMY\\ASP_WEB_lex02_Negozio\\ASP_WEB_lex02_Negozio\\appsettings.json",
+              "RelativeDocumentMoniker": "ASP_WEB_lex02_Negozio\\appsettings.json",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\ACADEMY\\ASP_WEB_lex02_Negozio\\ASP_WEB_lex02_Negozio\\appsettings.json",
+              "RelativeToolTip": "ASP_WEB_lex02_Negozio\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-16T12:31:36.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdottoRepo.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ACADEMY\\ASP_WEB_lex02_Negozio\\ASP_WEB_lex02_Negozio\\Repos\\ProdottoRepo.cs",
+              "RelativeDocumentMoniker": "ASP_WEB_lex02_Negozio\\Repos\\ProdottoRepo.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\ACADEMY\\ASP_WEB_lex02_Negozio\\ASP_WEB_lex02_Negozio\\Repos\\ProdottoRepo.cs",
+              "RelativeToolTip": "ASP_WEB_lex02_Negozio\\Repos\\ProdottoRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T12:29:45.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ACADEMY\\ASP_WEB_lex02_Negozio\\ASP_WEB_lex02_Negozio\\Repos\\IRepo.cs",
+              "RelativeDocumentMoniker": "ASP_WEB_lex02_Negozio\\Repos\\IRepo.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\ACADEMY\\ASP_WEB_lex02_Negozio\\ASP_WEB_lex02_Negozio\\Repos\\IRepo.cs",
+              "RelativeToolTip": "ASP_WEB_lex02_Negozio\\Repos\\IRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T12:27:21.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Prodotto.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ACADEMY\\ASP_WEB_lex02_Negozio\\ASP_WEB_lex02_Negozio\\Models\\Prodotto.cs",
+              "RelativeDocumentMoniker": "ASP_WEB_lex02_Negozio\\Models\\Prodotto.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\ACADEMY\\ASP_WEB_lex02_Negozio\\ASP_WEB_lex02_Negozio\\Models\\Prodotto.cs",
+              "RelativeToolTip": "ASP_WEB_lex02_Negozio\\Models\\Prodotto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T12:26:24.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccLez06NegozioContext.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ACADEMY\\ASP_WEB_lex02_Negozio\\ASP_WEB_lex02_Negozio\\Models\\AccLez06NegozioContext.cs",
+              "RelativeDocumentMoniker": "ASP_WEB_lex02_Negozio\\Models\\AccLez06NegozioContext.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\ACADEMY\\ASP_WEB_lex02_Negozio\\ASP_WEB_lex02_Negozio\\Models\\AccLez06NegozioContext.cs",
+              "RelativeToolTip": "ASP_WEB_lex02_Negozio\\Models\\AccLez06NegozioContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T12:24:35.036Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7hqhFsXndkcvlmtDwITfAGxKX+BW5YI/drkvwnwmu+6DXwq94YwmZRLHS/v/rlrs/XgksAZldxRhFOWAOlndAQ==",
+  "dgSpecHash": "E3U9nsqHmkC0ZzHHZZWdQROY81kXv5Jo7+wsCbgfMjfGBn8mNaZ9mf3nh4NGUicgWRr3WoXR33RY1TlUbEXbgA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\utente\\source\\repos\\asp_lez02_EF_libreria\\asp_lez02_EF_libreria\\asp_lez02_EF_libreria.csproj",
+  "projectFilePath": "C:\\Users\\utente\\Desktop\\ACADEMY\\API\\asp_lez02_EF_libreria\\asp_lez02_EF_libreria\\asp_lez02_EF_libreria.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\utente\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\utente\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
